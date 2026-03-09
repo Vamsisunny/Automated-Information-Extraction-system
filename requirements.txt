@@ -1,0 +1,16 @@
+# AI & ML Core
+paddlepaddle==3.0.0b2
+paddleocr>=2.9.0
+transformers>=4.48.0
+torch
+pillow
+
+# Data & Backend
+pandas
+chromadb
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Frontend
+streaml
